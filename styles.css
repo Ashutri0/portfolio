@@ -229,7 +229,7 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 360px;
+  width: 300px;
 }
 
 .home__blob {
@@ -263,6 +263,7 @@ img {
 
 .about__subtitle {
   margin-bottom: var(--mb-2);
+  margin-top: 1em;
 }
 .about__subtitle span {
   color: var(--first-color);
