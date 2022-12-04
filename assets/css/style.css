@@ -1903,3 +1903,15 @@ textarea.form-input::-webkit-resizer { display: none; }
   );
   /* background: var(--bg-gradient-yellow-1);  */
 }
+
+.swal-modal{
+  background-color: rgb(51, 49, 49) !important;
+  color: #fff !important;
+}
+
+.swal-title{
+  color: #fff !important;
+}
+.swal-text{
+  color: #fff !important;
+}
